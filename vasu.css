@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid red;
+}
+.box{
+    border: 1px solid blue;
+    width:20%;
+    height: 45px;
+    margin: auto;
+}
+.suryaclass{
+    border: 1px solid green;
+    margin-top: 40px;
+    width: 50%;
+    margin-left: 230px;
+    height: 300px;
+    padding-top: 100px;
+    /* padding-left: 200px; */
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    
+}
+
+.surya23{
+    border: 1px solid blue;
+    margin:50px;
+    padding: 60px;
+
+}
+.surya34{
+    border: 1px solid blue;
+    margin:10px 50px 10px 50px;
+    padding : 40px 50px;
+
+}

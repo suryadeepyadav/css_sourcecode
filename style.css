@@ -1,0 +1,29 @@
+body{
+    background-image: url("surya2.jpg");
+    /* background-repeat: no-repeat; */
+}
+#id1{
+    color: blue;
+    background-color: rgb(201, 124, 124);
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+
+}
+
+.vasuclass1{
+    color: rgb(189, 231, 210);
+    /* background-color: rgb(255, 0, 191); */
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+
+}
+.vasuclass2{
+    color: rgb(235, 250, 235);
+    font-weight: 500;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    /* background-color: aqua; */
+
+}
